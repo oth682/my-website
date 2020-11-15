@@ -1,0 +1,47 @@
+
+     html{
+     background-color: red;
+     }
+     .purple-color{
+     color:#8845f4;
+     }
+     body {
+     font-family: sans-serif;
+     color:#7777777 ; 
+     line-height: 26px ;}
+     .right-wing{
+     float: right;
+     }
+     .half-width{
+     width:50%;
+     float:left; }
+     .sides-img {
+     width:10% ; 
+     padding:10% ;
+     float: left;}
+     .primary-btn{
+     color: withe;
+     background-color: #8845f4;
+     padding: 13px 42px 13px 42px;
+     border-radius: 20px;
+     text-decoration: none;
+     }
+     h1 { 
+     font-size: 2.5em;
+     }
+     .container{
+     padding-left: 5%;
+     display: inline-block;
+     }
+     .experiences{
+     padding: 30px;
+     margin: 30px;
+     background-color: rgb(238,251,255);
+     border-radius: 20px;
+     
+     }
+     .experience-iterm{
+     padding: 10px;
+     border-radius: 1px solid rgba(137,130,247,.2);
+     }
+     
